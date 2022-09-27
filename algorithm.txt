@@ -1,0 +1,7 @@
+shortage Job First (SJF) Algorithm
+
+Take process, arrival time, burst time input from the user.
+Sort the process according to arrival time and if the process has the same arrival time then sort them having less burst time.
+Swap the process one above one in the order of execution.
+Find the turnaround time (tat) and waiting time (wt).
+Find average tat and average wt.
